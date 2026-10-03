@@ -10,3 +10,5 @@ Estou aprendendo Git e GitHub.
 
 Aprender Git para trabalhar com desenvolvimento backend Java.
 
+Estou aprendendo Git na prática.
+
