@@ -1,18 +1,6 @@
 # Meu primeiro repositório
 
-Estou aprendendo Git e GitHub.
 
 
-
-\## Objetivo
-
-
-
-Aprender Git para trabalhar com desenvolvimento backend Java.
-
-Estou aprendendo Git na prática.
-
-Minha primeira feature usando uma branch.
-
-
+git e GitHub for intermediario
 
